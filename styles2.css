@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.arrowdownright {
+  background-image: url("arrow.png");
+  position: absolute;
+  left: 615px;
+  top: 1650px;
+  width: 270px;
+  height: 287px;
+  z-index: 6;
+}

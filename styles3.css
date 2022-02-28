@@ -1,0 +1,23 @@
+@charset "utf-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+.leftarrow {
+  background-image: url("arrow 2.png");
+  position: absolute;
+  left: 331px;
+  top: 776px;
+  width: 180px;
+  height: 170px;
+  z-index: 9;
+}
+.rightarrow {
+  background-image: url("arrow.png");
+  position: absolute;
+  left: 991px;
+  top: 776px;
+  width: 180px;
+  height: 170px;
+  z-index: 8;
+}
